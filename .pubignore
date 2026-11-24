@@ -1,0 +1,5 @@
+.dart_tool/
+.github/
+.gitattributes
+.gitignore
+pubspec.lock
