@@ -1,6 +1,6 @@
 name: bare_stow_host
 description: Host side of the bare-stow lifecycle for Dart, layering readiness, termination, and exit reporting over a byte transport to a stowed bundle.
-version: 0.0.0
+version: 0.1.0
 homepage: https://github.com/holepunchto/bare-stow-host-dart
 repository: https://github.com/holepunchto/bare-stow-host-dart
 issue_tracker: https://github.com/holepunchto/bare-stow-host-dart/issues
